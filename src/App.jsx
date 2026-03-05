@@ -4,7 +4,7 @@ import Home from './components/Home'
 import Trustedby from './components/Trustedby'
 import Services from './components/Services'
 import Ourwork from './components/Ourwork'
-import Teams from './components/teams'
+import Teams from './components/Teams'
 import ContactUs from './components/ContactUs'
 import { Toaster } from 'react-hot-toast'
 
